@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 module SCrypt
-  VERSION = '3.0.7'
+  VERSION = "3.0.6"
 end
